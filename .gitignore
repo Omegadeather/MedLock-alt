@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.log
+*-wal
+*-shm
+.env
+.env.*
+node_modules/
+medlock-ui/dist/
