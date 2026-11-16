@@ -20,7 +20,7 @@ export const mock = {
     diluent: { present: true, correct: true },
     powder: { present: true, correct: true },
     syringe: { present: true, correct: true },
-    needle: { present: false, correct: true },
+    needle: { present: true, correct: true },
     wipes: { present: true, correct: true },
   },
   nextVerdict: 'pass',
